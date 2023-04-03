@@ -1,7 +1,8 @@
 package Modul2;
 import java.util.*;
 
-public class Utama {public static void main(String[] args) {
+public class Utama {
+    public static void main(String[] args) {
 
     ArrayList<String> hewan = new ArrayList<>();
 
