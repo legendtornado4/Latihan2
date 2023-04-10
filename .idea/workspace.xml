@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14ec1a33-3c04-4502-b80c-6d7b44269a29" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modul3/Latihan1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modul3/Latihan2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modul4/Mahasiswa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modul2/Utama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modul2/Utama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Latihan2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Latihan.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,18 +31,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/KULIAH/SEMESTER 4/Struktur Data/Latihan2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/KULIAH/SEMESTER 4/Struktur Data/Praktikum1&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Latihan1">
+}</component>
+  <component name="RunManager" selected="Application.Mahasiswa">
     <configuration name="Latihan1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Modul3.Latihan1" />
-      <module name="Latihan2" />
+      <module name="Latihan" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Modul3.*" />
@@ -54,9 +56,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Latihan2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul3.Latihan2" />
+      <module name="Latihan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modul3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mahasiswa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul4.Mahasiswa" />
+      <module name="Latihan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modul4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Utama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Modul2.Utama" />
-      <module name="Latihan2" />
+      <module name="Latihan" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Modul2.*" />
@@ -69,6 +97,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mahasiswa" />
+        <item itemvalue="Application.Latihan2" />
         <item itemvalue="Application.Latihan1" />
         <item itemvalue="Application.Utama" />
       </list>
@@ -97,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679309774472</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit">
+      <created>1680504922616</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680504922616</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
