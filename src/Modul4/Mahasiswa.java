@@ -25,7 +25,7 @@ public class Mahasiswa {
 
         mhs.put("1", new Mahasiswa ( "Putri","3H","Struktur Data", 2828888));
         mhs.put("2", new Mahasiswa (  "Agus","3A","Matematika", 2828012));
-        mhs.put("3", new Mahasiswa("Arro", "30", "Penrouranan", 2820017));
+        mhs.put("3", new Mahasiswa("Arro", "30", "Pemrogaman", 2820017));
 
         System.out.println("Masukkan ID: ");
 
