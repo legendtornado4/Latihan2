@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14ec1a33-3c04-4502-b80c-6d7b44269a29" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/Modul5/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modul5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modul5/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modul6/BFSTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modul6/DFSTraversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modul4/Mahasiswa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modul4/Mahasiswa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +41,26 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Latihan1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modul3.Latihan1" />
+  <component name="RunManager" selected="Application.DFSTraversal">
+    <configuration name="BFSTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul6.BFSTraversal" />
       <module name="Latihan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Modul3.*" />
+          <option name="PATTERN" value="Modul6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DFSTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul6.DFSTraversal" />
+      <module name="Latihan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modul6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,26 +107,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Utama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modul2.Utama" />
-      <module name="Latihan" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Modul2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DFSTraversal" />
+        <item itemvalue="Application.BFSTraversal" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Mahasiswa" />
         <item itemvalue="Application.Latihan2" />
-        <item itemvalue="Application.Latihan1" />
-        <item itemvalue="Application.Utama" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681109963337</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit">
+      <created>1684751711494</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684751711494</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
